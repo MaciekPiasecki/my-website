@@ -1,7 +1,8 @@
-baseURL = "http://example.com/"
+baseURL = "https://maciekpiasecki.github.io/my-website/"
 languageCode = "en-us"
 title = "Maciek Piasecki"
 theme = "archie"
+relativeURLs = true
 
 [params]
 	mode="dark"
