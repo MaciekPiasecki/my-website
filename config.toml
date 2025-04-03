@@ -1,0 +1,12 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Maciek Piasecki"
+theme = "archie"
+
+[params]
+	mode="dark"
+	useCDN=false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

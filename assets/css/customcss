@@ -1,0 +1,40 @@
+/* Change body text color */
+body {
+    color: #333;
+    font-size: 18px;
+}
+
+/* Change the link colors */
+a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Style the header */
+header h1 {
+    font-size: 5em;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Add padding to paragraphs */
+p {
+    margin-bottom: 10px;
+}
+
+/* Style the navigation menu */
+nav {
+    background-color: #222;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    font-weight: bold;
+}
