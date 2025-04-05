@@ -17,7 +17,7 @@ colorPalette = 'default'
 hideHeader = false
 
 
-homeIntroTitle = 'Hello. I am a digital security personal trainer and advisor for high-risk projects.'
+homeIntroTitle = 'Hello. I am a digital security personal trainer and advisor for high-risk projects. Let's get in touch.'
 
 homeIntroContent = """
 **I will be happy to give you a free risk assessment based on [threat modelling](https://owasp.org/www-community/Threat_Modeling) principles.**
